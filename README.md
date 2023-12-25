@@ -77,3 +77,4 @@ No memory leaks was detected, memory consuming at peak ~100MB.
 
 * Decomposing the application into layers with interfaces.
 * Implement different detection outliers algorithms, compare them, and choose the best depending on business requirements(accuracy, amount of data)
+* Add unit tests.
